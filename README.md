@@ -1,0 +1,1 @@
+# django_supermarket_scraping
